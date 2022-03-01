@@ -16,8 +16,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/mansi-garg-018494215#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mansi-garg-018494215#gh-dark-mode-only)
+[![website](./img/linkdln.png)](https://linkedin.com/in/mansi-garg-018494215#gh-light-mode-only)
+[![website](./img/instragram.png)](https://linkedin.com/in/mansi-garg-018494215#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/_indian_coder_/?hl=en#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/_indian_coder_/?hl=en#gh-dark-mode-only)
