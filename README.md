@@ -16,11 +16,11 @@
 
 ### Connect with me:
 
-[![website](./linkdln.png)](https://linkedin.com/in/mansi-garg-018494215#gh-light-mode-only)
-[![website](./linkdln.png)](https://linkedin.com/in/mansi-garg-018494215#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/mansi-garg-018494215#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mansi-garg-018494215#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./instagram.jpg)](https://instagram.com/_indian_coder_/?hl=en#gh-light-mode-only)
-[![website](./instagram.jpg)](https://instagram.com/_indian_coder_/?hl=en#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/_indian_coder_/?hl=en#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/_indian_coder_/?hl=en#gh-dark-mode-only)
 
 ### Languages and Tools:
 
