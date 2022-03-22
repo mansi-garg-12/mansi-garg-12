@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=mansi-garg-12.com&style=for-the-badge&url=https://mansi-garg-12.github.io/)](https://mansi-garg-12.github.io/)
 
-## I am Enthusiastic Coder , Developer , Problem solver and Teacher
+## I am Enthusiastic Coder , Developer , Problem solver and Teacher , Mentor in Girlscript Summer of code.
 
 - 👍Exploring knowledge since 2 years<br>
 -🧠Diploma in Web designing (HTML,PhP,CSS,Javascript,SQL)<br>
