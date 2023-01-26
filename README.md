@@ -4,15 +4,16 @@
 
 ## I am Enthusiastic Coder , Developer , Problem solver , Teacher and Mentor in Girlscript Summer of code (GSSoc 2022).
 
-- 👍Exploring knowledge since 2 years<br>
+- 👍Exploring knowledge since 3 years<br>
 -🧠Diploma in Web designing (HTML,PhP,CSS,Javascript,SQL)<br>
 -📃Certified in Coding (C and C++)
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Learn more about web3 , DSA , C++
 - ⚡ Fun fact: I love to draw and paint
+- Upcoming SDE intern at JP Morgan & Chase
 - 🌱 I’m currently doing Competitive Programming and learning Web technologies.
-- 🥅 I have solved 200+ questions on [LeetCode](https://www.linkedin.com/in/mansi-garg-018494215/).
-- 🥅 I have 3 🌟🌟� on [CodeChef](https://www.codechef.com/users/indian_coder12) and [LeetCode](https://www.linkedin.com/in/mansi-garg-018494215/).
+- 🥅 I have solved 800+ questions on [LeetCode](https://www.linkedin.com/in/mansi-garg-018494215/).
+- 🥅 I have 3 🌟🌟 on [CodeChef](https://www.codechef.com/users/indian_coder12) and [LeetCode](https://www.linkedin.com/in/mansi-garg-018494215/).
 
 ### Connect with me:
 
